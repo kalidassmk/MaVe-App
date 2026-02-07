@@ -1,0 +1,20 @@
+# React Native
+
+# Build artifacts
+**/build/
+
+# macOS Finder
+.DS_Store
+
+# Logs
+*.log
+
+# React Native
+*.jsbundle
+**/ios/Pods/
+**/ios/*.xcodeproj/xcuserdata/*.xcuserdatad
+**/ios/DerivedData/
+
+# Android
+**/android/.gradle/
+**/android/app/build/
